@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: hsl(30, 54%, 90%);
+}
+
+@font-face {
+    font-family: young-serif;
+    src: url('fonts/young-serif/YoungSerif-Regular.ttf');
+}
+
+@font-face {
+    font-family: outfit;
+    src: url('fonts/outfit/Outfit-VariableFont_wght.ttf');
+}
